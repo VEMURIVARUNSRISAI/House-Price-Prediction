@@ -36,13 +36,13 @@ After evaluating all the models, XGBoost achieved the highest accuracy for predi
 ## Installation & Requirements
 To run this project, you will need the following packages:
 
-Python 3.x
-scikit-learn
-xgboost
-numpy
-pandas
-matplotlib (optional, for data visualization)
-seaborn (optional, for data visualization)
+* Python 3.x
+* scikit-learn
+* xgboost
+* numpy
+* pandas
+* matplotlib (optional, for data visualization)
+* seaborn (optional, for data visualization)
 
 
 Clone this repository:
