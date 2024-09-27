@@ -24,11 +24,11 @@ MEDV: Median value of owner-occupied homes in 1000's [Target variable].
 ## Machine Learning Models
 The following models were used to predict the target variable (MEDV):
 
-Linear Regression: A basic regression model that fits a linear relationship between the features and the target.
-Random Forest: An ensemble method using multiple decision trees to improve the model's performance and accuracy.
-Ridge Regression: A linear regression model with L2 regularization to prevent overfitting by penalizing large coefficients.
-XGBoost: An optimized gradient boosting algorithm that often outperforms other algorithms in regression tasks.
-Random Forest with Recursive Feature Elimination (RFE): Feature selection technique that recursively removes less important features to improve the model's performance.
+* Linear Regression: A basic regression model that fits a linear relationship between the features and the target.
+* Random Forest: An ensemble method using multiple decision trees to improve the model's performance and accuracy.
+* Ridge Regression: A linear regression model with L2 regularization to prevent overfitting by penalizing large coefficients.
+* XGBoost: An optimized gradient boosting algorithm that often outperforms other algorithms in regression tasks.
+* Random Forest with Recursive Feature Elimination (RFE): Feature selection technique that recursively removes less important features to improve the model's performance.
 
 ## Results
 After evaluating all the models, XGBoost achieved the highest accuracy for predicting the median housing prices in the dataset. 
