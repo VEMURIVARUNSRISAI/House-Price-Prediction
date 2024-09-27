@@ -44,15 +44,9 @@ pandas
 matplotlib (optional, for data visualization)
 seaborn (optional, for data visualization)
 
-You can install the required libraries using the following command:
 
-bash
-Copy code
-pip install -r requirements.txt
-Usage
 Clone this repository:
 
-bash
 Copy code
 git clone https://github.com/your_username/boston-housing-prediction.git
 cd boston-housing-prediction
@@ -61,6 +55,7 @@ Run the Jupyter notebook or Python script to train and evaluate models:
 bash
 Copy code
 jupyter notebook
+
 You can also view the detailed analysis, training process, and evaluation metrics within the notebook.
 
 ## Conclusion
